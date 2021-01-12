@@ -184,7 +184,7 @@
         "description": "Code snippet for a lambda statement"
     },
     "if(main)": {
-        "prefix": "__main__",
+        "prefix": "ifmain",
         "body": [
             "if __name__ == \"__main__\":",
             "    ${1:pass}"
